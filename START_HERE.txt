@@ -1,0 +1,24 @@
+SANDY'S KIDDIE KORRAL - VERCEL-READY SITE
+
+RUN:
+  npm run dev
+
+You will see Local and Network URLs with your computer's real IP.
+No npm install necessary (no third-party dependencies).
+
+BUILD:
+  npm run build
+
+VERCEL:
+  Framework: Other
+  Build command: npm run build
+  Output directory: dist
+  Root directory: project root
+  Add environment variable WEB3FORMS_ACCESS_KEY for email submissions
+  Redeploy after setting environment variable
+
+IMPORTANT:
+  Verify all childcare operational details with the director before launch.
+  No tuition, program availability or transportation routes have been invented.
+  All imagery apart from the user-provided logo is original illustration.
+  Consult README.md for full instructions and sources.

@@ -1,0 +1,10 @@
+import { cp, rm, stat } from 'node:fs/promises';
+import path from 'node:path';
+import { fileURLToPath } from 'node:url';
+const projectRoot = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
+const source = path.join(projectRoot, 'site');
+const dest = path.join(projectRoot, 'dist');
+await stat(path.join(source, 'index.html'));
+await rm(dest, { recursive: true, force: true });
+await cp(source, dest, { recursive: true });
+console.log(`Production website built: ${dest}`);

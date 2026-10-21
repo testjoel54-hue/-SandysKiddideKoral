@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="700" viewBox="0 0 760 700" role="img" aria-labelledby="t d">
+<title id="t">Children discovering the joy of learning through play</title><desc id="d">Original illustration with two smiling children, colorful blocks, a book, a sun and hand-drawn shapes.</desc>
+<defs>
+ <filter id="shadow" x="-35%" y="-35%" width="170%" height="170%"><feDropShadow dx="0" dy="15" stdDeviation="18" flood-color="#244a77" flood-opacity=".11"/></filter>
+ <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="2" fill="#ffffff" opacity=".75"/></pattern>
+</defs>
+<path d="M109 214C157 110 311 83 430 118c129 38 223 129 222 251-1 130-82 230-223 239-132 9-325-8-368-143C21 342 52 334 109 214Z" fill="#cce9fd"/>
+<path d="M109 214C157 110 311 83 430 118c129 38 223 129 222 251-1 130-82 230-223 239-132 9-325-8-368-143C21 342 52 334 109 214Z" fill="url(#dots)" opacity=".43"/>
+<path d="M573 144c14-34 44-43 72-26 21 14 22 43 4 65-21 22-53 21-76-1-10-11-10-25 0-38Z" fill="#ffe7ad"/>
+<g stroke="#f2bd3f" stroke-width="6" stroke-linecap="round"><path d="M612 77v16M612 214v17M679 145h17M532 145h17M660 93l11-11M552 202l-11 11M551 94l-11-11M665 198l11 10"/></g>
+<path d="M130 205q-33-31-61 3-9 11 5 24h117q20-15 0-30-16-12-33-2-5-17-28-16-19 0-24 21Z" fill="#fff" opacity=".92"/>
+<path d="M526 255q-20-22-43-5-12 8-8 22h99q15-11 1-25-13-13-28-4-3-13-21-12Z" fill="#fff"/>
+<path d="M74 392q-24-30-51 4" stroke="#f7688b" stroke-width="10" stroke-linecap="round" fill="none"/>
+<path d="M625 420q45 16 62-31" stroke="#238659" stroke-width="10" stroke-linecap="round" fill="none"/>
+<g fill="#ef5b7c"><circle cx="100" cy="316" r="9"/><circle cx="634" cy="298" r="8"/></g>
+<g fill="#f1bf3a"><path d="m550 74 7 19 19 7-19 7-7 19-7-19-19-7 19-7Z"/><path d="m118 520 5 13 13 5-13 5-5 13-5-13-13-5 13-5Z"/></g>
+<!-- classroom ground -->
+<ellipse cx="380" cy="579" rx="289" ry="64" fill="#9dd9b7"/>
+<ellipse cx="389" cy="601" rx="242" ry="27" fill="#80caa1" opacity=".35"/>
+<!-- beanbag -->
+<path d="M129 514c-15-56 13-113 79-109 58 3 89 60 74 114-5 17-21 41-40 51l-73-2c-25-10-36-31-40-54Z" fill="#ffb9d0" filter="url(#shadow)"/>
+<path d="M142 517c-2 21 28 45 53 46" stroke="#ee85a5" stroke-width="8" stroke-linecap="round" fill="none"/>
+<!-- child left shoes and legs -->
+<path d="M283 516 263 580" stroke="#264b75" stroke-width="29" stroke-linecap="round"/><path d="M350 527 368 578" stroke="#264b75" stroke-width="29" stroke-linecap="round"/>
+<ellipse cx="248" cy="588" rx="32" ry="16" fill="#e96c81"/><ellipse cx="385" cy="590" rx="35" ry="16" fill="#e96c81"/>
+<!-- child left body -->
+<path d="M255 378q63-37 125 5l-8 142q-54 20-107-2Z" fill="#ee6e91"/>
+<path d="M280 384v115M351 383l-2 115" stroke="#f6a0b6" stroke-width="9" stroke-linecap="round"/>
+<path d="M252 419q-47 48-55 82" fill="none" stroke="#ab693f" stroke-width="23" stroke-linecap="round"/>
+<circle cx="194" cy="504" r="13" fill="#ac6b46"/>
+<path d="M374 420q31 35 43 66" fill="none" stroke="#b4764d" stroke-width="23" stroke-linecap="round"/>
+<circle cx="420" cy="490" r="13" fill="#b4764d"/>
+<!-- child left head -->
+<path d="M246 298c-18-57 10-99 69-106 60-2 92 39 83 103l-23 18-105-1Z" fill="#352e32"/>
+<circle cx="265" cy="276" r="27" fill="#352e32"/><circle cx="365" cy="247" r="27" fill="#352e32"/>
+<ellipse cx="317" cy="304" rx="74" ry="76" fill="#c98b61"/>
+<path d="M245 293c5-65 36-86 92-83 28 1 52 15 60 46-28-8-46-24-60-36-16 36-47 58-92 73Z" fill="#352e32"/>
+<circle cx="285" cy="312" r="6" fill="#242735"/><circle cx="346" cy="312" r="6" fill="#242735"/>
+<ellipse cx="266" cy="337" rx="15" ry="8" fill="#ef967e" opacity=".65"/><ellipse cx="364" cy="337" rx="15" ry="8" fill="#ef967e" opacity=".65"/>
+<path d="M298 347q18 22 38 0" stroke="#723a36" stroke-width="6" stroke-linecap="round" fill="none"/>
+<!-- child right legs and body -->
+<path d="M507 519 503 579M567 519l20 58" stroke="#1f4c79" stroke-width="28" stroke-linecap="round"/>
+<ellipse cx="489" cy="589" rx="33" ry="15" fill="#f2bd3f"/><ellipse cx="606" cy="589" rx="35" ry="15" fill="#f2bd3f"/>
+<path d="M472 386q63-44 118 0l-5 142q-60 27-118 0Z" fill="#279267"/>
+<path d="M489 399h78v112h-78Z" fill="#45ae84"/><path d="M494 426h69" stroke="#80d6a8" stroke-width="8" stroke-linecap="round"/>
+<path d="M474 422q-43 23-55 59" stroke="#f0b987" stroke-width="23" stroke-linecap="round" fill="none"/><circle cx="418" cy="489" r="14" fill="#f0b987"/>
+<path d="M589 423q23 36 40 49" stroke="#f0b987" stroke-width="23" stroke-linecap="round" fill="none"/><circle cx="637" cy="477" r="14" fill="#f0b987"/>
+<!-- child right head -->
+<circle cx="525" cy="293" r="70" fill="#eead79"/>
+<path d="M461 272c-5-57 23-99 71-101 56-1 91 48 63 103-21-7-30-20-38-31-30 18-63 24-96 29Z" fill="#4a3731"/>
+<circle cx="478" cy="214" r="21" fill="#4a3731"/><circle cx="511" cy="192" r="25" fill="#4a3731"/><circle cx="549" cy="197" r="24" fill="#4a3731"/><circle cx="580" cy="219" r="21" fill="#4a3731"/>
+<circle cx="495" cy="302" r="6" fill="#27323c"/><circle cx="550" cy="302" r="6" fill="#27323c"/>
+<ellipse cx="473" cy="328" rx="13" ry="8" fill="#e98671" opacity=".6"/><ellipse cx="567" cy="328" rx="13" ry="8" fill="#e98671" opacity=".6"/>
+<path d="M506 337q17 20 34-1" stroke="#a15b4f" stroke-width="6" stroke-linecap="round" fill="none"/>
+<!-- blocks -->
+<g filter="url(#shadow)">
+<rect x="267" y="542" width="66" height="66" rx="15" fill="#f6c746"/><rect x="333" y="546" width="65" height="65" rx="13" fill="#66b9ec"/><rect x="398" y="542" width="62" height="62" rx="13" fill="#f87697"/>
+</g>
+<g fill="#fff" font-family="Verdana,sans-serif" font-weight="800" text-anchor="middle" font-size="31"><text x="300" y="586">A</text><text x="366" y="588">B</text><text x="429" y="584">C</text></g>
+<!-- pencil + butterflies -->
+<path d="M671 476q-31-14-23-36" fill="none" stroke="#224e78" stroke-width="5" stroke-linecap="round"/>
+<ellipse cx="664" cy="438" rx="17" ry="11" fill="#f5c94b" transform="rotate(-27 664 438)"/><ellipse cx="650" cy="422" rx="16" ry="10" fill="#f77895" transform="rotate(30 650 422)"/><path d="m658 433-5-6" stroke="#1c527f" stroke-width="4"/>
+<path d="m83 224 19 19M104 222l-19 22" stroke="#238658" stroke-width="6" stroke-linecap="round"/>
+</svg>
